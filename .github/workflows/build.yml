@@ -29,7 +29,7 @@ jobs:
     env:
       libraryName: cpp-linenoise
       cmakeInstallationPath: cpp-linenoise-installation
-      tagName: c4cd89adfbc07cedada1aa32be12991828919d91b
+      tagName: 4cd89adfbc07cedada1aa32be12991828919d91b
     steps:
     
       - uses: actions/checkout@v4
